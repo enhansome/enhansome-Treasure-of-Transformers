@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "🧑‍💻👩‍💻Collection of All NLP Deep learning algorithm list with Code 🧑‍💻👩‍💻"
-    },
-    {
-      "description": "if you want to contribute on this project please send us email: ashishpatel.ce.2011@gmail.com .\n🙏🙏Special Thanks to Komal Lamba for contributing.\nCopyright for source code belongs to the original author(s). However, under fair use you are encouraged to fork and contribute minor corrections and updates for the benefit of the reader(s).\nThanks for Reading ...!!!",
-      "items": [],
-      "title": "How to Contribute"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T04:21:34.074Z",
+    "last_updated": "2026-08-19T12:12:18.380Z",
     "original_repository": "ashishpatel26/Treasure-of-Transformers",
+    "original_repository_id": 437856913,
     "original_repository_sha": "7172afd161c9f58b04aca7640c6522a9cf11cf2c",
     "enhanced_repository": "enhansome/enhansome-Treasure-of-Transformers",
     "enhanced_repository_description": null,

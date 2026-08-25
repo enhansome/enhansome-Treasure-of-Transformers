@@ -15,7 +15,7 @@
             "last_commit": "2022-02-25T06:27:12Z",
             "owner": "EleutherAI",
             "repo": "gpt-neo",
-            "stars": 8269
+            "stars": 8270
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40046
+            "stars": 40045
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-24T14:07:06Z",
+            "last_commit": "2026-08-25T03:35:17Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164394
+            "stars": 164411
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-08-14T10:50:53Z",
             "owner": "openai",
             "repo": "gpt-2",
-            "stars": 25017
+            "stars": 25018
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-07-08T23:37:09Z",
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6544
+            "stars": 6545
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32234
+            "stars": 32235
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -402,10 +402,10 @@
             "archived": false,
             "id": 306980630,
             "language": "Python",
-            "last_commit": "2026-08-24T01:11:43Z",
+            "last_commit": "2026-08-25T01:17:09Z",
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5941
+            "stars": 5942
           }
         },
         {
@@ -420,7 +420,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32234
+            "stars": 32235
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2020-09-18T22:06:11Z",
             "owner": "openai",
             "repo": "gpt-3",
-            "stars": 15717
+            "stars": 15718
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32234
+            "stars": 32235
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -870,7 +870,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -945,7 +945,7 @@
             "last_commit": "2022-11-21T22:47:17Z",
             "owner": "pengbaolin",
             "repo": "SC-GPT",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -987,10 +987,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-24T14:07:06Z",
+            "last_commit": "2026-08-25T03:35:17Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164394
+            "stars": 164411
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2022-10-17T23:41:52Z",
             "owner": "microsoft",
             "repo": "DialoGPT",
-            "stars": 2418
+            "stars": 2420
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22195
+            "stars": 22193
           }
         },
         {
@@ -1125,7 +1125,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32234
+            "stars": 32235
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32234
+            "stars": 32235
           }
         },
         {
@@ -1152,10 +1152,10 @@
             "archived": false,
             "id": 176982014,
             "language": "Python",
-            "last_commit": "2026-08-24T12:53:28Z",
+            "last_commit": "2026-08-25T04:22:20Z",
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 17561
+            "stars": 17574
           }
         },
         {
@@ -1197,10 +1197,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-24T14:07:06Z",
+            "last_commit": "2026-08-25T03:35:17Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164394
+            "stars": 164411
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32234
+            "stars": 32235
           }
         },
         {
@@ -1230,7 +1230,7 @@
             "last_commit": "2026-07-08T23:37:09Z",
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6544
+            "stars": 6545
           }
         },
         {
@@ -1242,10 +1242,10 @@
             "archived": false,
             "id": 306980630,
             "language": "Python",
-            "last_commit": "2026-08-24T01:11:43Z",
+            "last_commit": "2026-08-25T01:17:09Z",
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5941
+            "stars": 5942
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -1377,10 +1377,10 @@
             "archived": false,
             "id": 306980630,
             "language": "Python",
-            "last_commit": "2026-08-24T01:11:43Z",
+            "last_commit": "2026-08-25T01:17:09Z",
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5941
+            "stars": 5942
           }
         },
         {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38611
+            "stars": 38612
           }
         },
         {
@@ -1515,7 +1515,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32234
+            "stars": 32235
           }
         },
         {
@@ -1725,7 +1725,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22195
+            "stars": 22193
           }
         },
         {
@@ -1740,7 +1740,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22195
+            "stars": 22193
           }
         },
         {
@@ -1800,7 +1800,7 @@
             "last_commit": "2026-06-17T13:51:27Z",
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15166
+            "stars": 15167
           }
         },
         {
@@ -1905,7 +1905,7 @@
             "last_commit": "2026-01-23T04:09:35Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22195
+            "stars": 22193
           }
         },
         {
@@ -1943,7 +1943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:24.154Z",
+    "last_updated": "2026-08-25T04:23:06.271Z",
     "original_repository": "ashishpatel26/Treasure-of-Transformers",
     "original_repository_id": 437856913,
     "original_repository_sha": "7172afd161c9f58b04aca7640c6522a9cf11cf2c",

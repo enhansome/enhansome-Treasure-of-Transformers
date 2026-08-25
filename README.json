@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "1",
-          "description": "GPT-Neo 2021",
+          "title": "GPT-Neo",
+          "description": "2021",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "2",
+          "title": "models",
           "description": "Transformer 2017",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "3",
+          "title": "bert",
           "description": "BERT 2018",
           "children": [],
           "repo_info": {
@@ -50,22 +50,22 @@
         },
         {
           "node_type": "item",
-          "title": "4",
+          "title": "transformers",
           "description": "GPT 2018",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-25T03:35:17Z",
+            "last_commit": "2026-08-25T05:59:39Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164411
+            "stars": 164413
           }
         },
         {
           "node_type": "item",
-          "title": "5",
+          "title": "tensor2tensor",
           "description": "Universal Transformer 2018",
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "6",
+          "title": "tensor2tensor",
           "description": "T-D 2018",
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "7",
+          "title": "gpt-2",
           "description": "GPT-2 2019",
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
         },
         {
           "node_type": "item",
-          "title": "8",
+          "title": "text-to-text-transfer-transformer",
           "description": "T5 2019",
           "children": [],
           "repo_info": {
@@ -125,7 +125,7 @@
         },
         {
           "node_type": "item",
-          "title": "9",
+          "title": "GENRE",
           "description": "BART 2019",
           "children": [],
           "repo_info": {
@@ -140,7 +140,7 @@
         },
         {
           "node_type": "item",
-          "title": "10",
+          "title": "xlnet",
           "description": "XLNet 2019",
           "children": [],
           "repo_info": {
@@ -155,7 +155,7 @@
         },
         {
           "node_type": "item",
-          "title": "11",
+          "title": "albert",
           "description": "ALBERT 2019",
           "children": [],
           "repo_info": {
@@ -170,7 +170,7 @@
         },
         {
           "node_type": "item",
-          "title": "13",
+          "title": "transformer-xl",
           "description": "Transformer-XL 2019",
           "children": [],
           "repo_info": {
@@ -185,7 +185,7 @@
         },
         {
           "node_type": "item",
-          "title": "14",
+          "title": "XLM",
           "description": "XLM 2019",
           "children": [],
           "repo_info": {
@@ -200,7 +200,7 @@
         },
         {
           "node_type": "item",
-          "title": "15",
+          "title": "vilbert-multi-task",
           "description": "ViLBERT 2019",
           "children": [],
           "repo_info": {
@@ -245,7 +245,7 @@
         },
         {
           "node_type": "item",
-          "title": "17",
+          "title": "fairseq",
           "description": "Levenshtein Transformer 2019",
           "children": [],
           "repo_info": {
@@ -260,7 +260,7 @@
         },
         {
           "node_type": "item",
-          "title": "18",
+          "title": "ctrl",
           "description": "CTRL 2019",
           "children": [],
           "repo_info": {
@@ -335,7 +335,7 @@
         },
         {
           "node_type": "item",
-          "title": "21",
+          "title": "google-research",
           "description": "CuBERT 2019",
           "children": [],
           "repo_info": {
@@ -345,12 +345,12 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
           "node_type": "item",
-          "title": "22",
+          "title": "BPT",
           "description": "BP-Transformer 2019",
           "children": [],
           "repo_info": {
@@ -365,7 +365,7 @@
         },
         {
           "node_type": "item",
-          "title": "23",
+          "title": "entmax",
           "description": "Adaptively Sparse Transformer 2019",
           "children": [],
           "repo_info": {
@@ -410,7 +410,7 @@
         },
         {
           "node_type": "item",
-          "title": "25",
+          "title": "fairseq",
           "description": "FSMT 2019",
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
         },
         {
           "node_type": "item",
-          "title": "26",
+          "title": "lxmert",
           "description": "LXMERT 2019",
           "children": [],
           "repo_info": {
@@ -440,7 +440,7 @@
         },
         {
           "node_type": "item",
-          "title": "27",
+          "title": "visualbert",
           "description": "VisualBERT 2019",
           "children": [],
           "repo_info": {
@@ -455,7 +455,7 @@
         },
         {
           "node_type": "item",
-          "title": "28",
+          "title": "gpt-3",
           "description": "GPT-3 2020",
           "children": [],
           "repo_info": {
@@ -470,7 +470,7 @@
         },
         {
           "node_type": "item",
-          "title": "29",
+          "title": "electra",
           "description": "ELECTRA 2020",
           "children": [],
           "repo_info": {
@@ -485,7 +485,7 @@
         },
         {
           "node_type": "item",
-          "title": "30",
+          "title": "electra",
           "description": "Electric 2020",
           "children": [],
           "repo_info": {
@@ -500,7 +500,7 @@
         },
         {
           "node_type": "item",
-          "title": "31",
+          "title": "longformer",
           "description": "LongFormer 2020",
           "children": [],
           "repo_info": {
@@ -515,7 +515,7 @@
         },
         {
           "node_type": "item",
-          "title": "32",
+          "title": "fairseq",
           "description": "mBART 2020",
           "children": [],
           "repo_info": {
@@ -530,7 +530,7 @@
         },
         {
           "node_type": "item",
-          "title": "33",
+          "title": "google-research",
           "description": "Performer 2020",
           "children": [],
           "repo_info": {
@@ -540,12 +540,12 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
           "node_type": "item",
-          "title": "34",
+          "title": "google-research",
           "description": "ETC 2020",
           "children": [],
           "repo_info": {
@@ -555,12 +555,12 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
           "node_type": "item",
-          "title": "35",
+          "title": "CodeBERT",
           "description": "CodeBERT 2020",
           "children": [],
           "repo_info": {
@@ -575,7 +575,7 @@
         },
         {
           "node_type": "item",
-          "title": "37",
+          "title": "trax",
           "description": "Reformer 2020",
           "children": [],
           "repo_info": {
@@ -590,7 +590,7 @@
         },
         {
           "node_type": "item",
-          "title": "38",
+          "title": "DeBERTa",
           "description": "DeBERTa & DeBERTa-v2 2020",
           "children": [],
           "repo_info": {
@@ -605,7 +605,7 @@
         },
         {
           "node_type": "item",
-          "title": "39",
+          "title": "Linear-Multihead-Attention",
           "description": "Linformer 2020",
           "children": [],
           "repo_info": {
@@ -620,7 +620,7 @@
         },
         {
           "node_type": "item",
-          "title": "41",
+          "title": "ProphetNet",
           "description": "ProphetNet 2020",
           "children": [],
           "repo_info": {
@@ -635,7 +635,7 @@
         },
         {
           "node_type": "item",
-          "title": "42",
+          "title": "bigbird",
           "description": "BigBird 2020",
           "children": [],
           "repo_info": {
@@ -680,7 +680,7 @@
         },
         {
           "node_type": "item",
-          "title": "44",
+          "title": "routing-transformer",
           "description": "Routing Transformer 2020",
           "children": [],
           "repo_info": {
@@ -695,7 +695,7 @@
         },
         {
           "node_type": "item",
-          "title": "45",
+          "title": "DeeBERT",
           "description": "DeeBERT 2020",
           "children": [],
           "repo_info": {
@@ -710,7 +710,7 @@
         },
         {
           "node_type": "item",
-          "title": "46",
+          "title": "Pretrained-Language-Model",
           "description": "DynaBERT 2020",
           "children": [],
           "repo_info": {
@@ -725,7 +725,7 @@
         },
         {
           "node_type": "item",
-          "title": "47",
+          "title": "Pretrained-Language-Model",
           "description": "TernaryBERT 2020",
           "children": [],
           "repo_info": {
@@ -740,7 +740,7 @@
         },
         {
           "node_type": "item",
-          "title": "48",
+          "title": "google-research",
           "description": "MobileBERT 2020",
           "children": [],
           "repo_info": {
@@ -750,12 +750,12 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
           "node_type": "item",
-          "title": "49",
+          "title": "bort",
           "description": "Bort 2020",
           "children": [],
           "repo_info": {
@@ -770,7 +770,7 @@
         },
         {
           "node_type": "item",
-          "title": "50",
+          "title": "delight",
           "description": "DeLighT 2020",
           "children": [],
           "repo_info": {
@@ -815,7 +815,7 @@
         },
         {
           "node_type": "item",
-          "title": "52",
+          "title": "ConvBert",
           "description": "ConvBERT 2020",
           "children": [],
           "repo_info": {
@@ -830,7 +830,7 @@
         },
         {
           "node_type": "item",
-          "title": "53",
+          "title": "google-research",
           "description": "IB-BERT 2020",
           "children": [],
           "repo_info": {
@@ -840,12 +840,12 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
           "node_type": "item",
-          "title": "54",
+          "title": "MacBERT",
           "description": "MacBERT 2020",
           "children": [],
           "repo_info": {
@@ -870,7 +870,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
@@ -890,7 +890,7 @@
         },
         {
           "node_type": "item",
-          "title": "56",
+          "title": "sinkhorn-transformer",
           "description": "Sinkhorn Transformer 2020",
           "children": [],
           "repo_info": {
@@ -905,7 +905,7 @@
         },
         {
           "node_type": "item",
-          "title": "57",
+          "title": "SongNet",
           "description": "SongNet 2020",
           "children": [],
           "repo_info": {
@@ -920,7 +920,7 @@
         },
         {
           "node_type": "item",
-          "title": "58",
+          "title": "Funnel-Transformer",
           "description": "Funnel Transformer 2020",
           "children": [],
           "repo_info": {
@@ -935,7 +935,7 @@
         },
         {
           "node_type": "item",
-          "title": "59",
+          "title": "SC-GPT",
           "description": "SC-GPT 2020",
           "children": [],
           "repo_info": {
@@ -950,7 +950,7 @@
         },
         {
           "node_type": "item",
-          "title": "60",
+          "title": "google-research",
           "description": "SMITH 2020",
           "children": [],
           "repo_info": {
@@ -960,12 +960,12 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
           "node_type": "item",
-          "title": "61",
+          "title": "Pretrained-Language-Model",
           "description": "BinaryBERT 2020",
           "children": [],
           "repo_info": {
@@ -980,22 +980,22 @@
         },
         {
           "node_type": "item",
-          "title": "62",
+          "title": "transformers",
           "description": "SqueezeBERT 2020",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-25T03:35:17Z",
+            "last_commit": "2026-08-25T05:59:39Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164411
+            "stars": 164413
           }
         },
         {
           "node_type": "item",
-          "title": "63",
+          "title": "transformer-sequential",
           "description": "Feedback Transformer 2020",
           "children": [],
           "repo_info": {
@@ -1010,7 +1010,7 @@
         },
         {
           "node_type": "item",
-          "title": "66",
+          "title": "DialoGPT",
           "description": "DialoGPT 2020",
           "children": [],
           "repo_info": {
@@ -1025,7 +1025,7 @@
         },
         {
           "node_type": "item",
-          "title": "67",
+          "title": "DPR",
           "description": "DPR 2020",
           "children": [],
           "repo_info": {
@@ -1040,7 +1040,7 @@
         },
         {
           "node_type": "item",
-          "title": "68",
+          "title": "Flaubert",
           "description": "FlauBERT 2020",
           "children": [],
           "repo_info": {
@@ -1055,7 +1055,7 @@
         },
         {
           "node_type": "item",
-          "title": "69",
+          "title": "klejbenchmark-baselines",
           "description": "HerBERT 2020",
           "children": [],
           "repo_info": {
@@ -1070,7 +1070,7 @@
         },
         {
           "node_type": "item",
-          "title": "70",
+          "title": "unilm",
           "description": "LayoutLM 2020",
           "children": [],
           "repo_info": {
@@ -1085,7 +1085,7 @@
         },
         {
           "node_type": "item",
-          "title": "71",
+          "title": "longformer",
           "description": "LED 2020",
           "children": [],
           "repo_info": {
@@ -1100,7 +1100,7 @@
         },
         {
           "node_type": "item",
-          "title": "72",
+          "title": "luke",
           "description": "LUKE 2020",
           "children": [],
           "repo_info": {
@@ -1115,7 +1115,7 @@
         },
         {
           "node_type": "item",
-          "title": "73",
+          "title": "fairseq",
           "description": "M2M100 2020",
           "children": [],
           "repo_info": {
@@ -1130,7 +1130,7 @@
         },
         {
           "node_type": "item",
-          "title": "74",
+          "title": "fairseq",
           "description": "MBart and MBart-50 2020",
           "children": [],
           "repo_info": {
@@ -1145,14 +1145,14 @@
         },
         {
           "node_type": "item",
-          "title": "75",
+          "title": "Megatron-LM",
           "description": "MegatronBERT 2020",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 176982014,
             "language": "Python",
-            "last_commit": "2026-08-25T04:22:20Z",
+            "last_commit": "2026-08-25T06:02:00Z",
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
             "stars": 17574
@@ -1160,7 +1160,7 @@
         },
         {
           "node_type": "item",
-          "title": "77",
+          "title": "MPNet",
           "description": "MPNet 2020",
           "children": [],
           "repo_info": {
@@ -1175,7 +1175,7 @@
         },
         {
           "node_type": "item",
-          "title": "78",
+          "title": "pegasus",
           "description": "Pegasus 2020",
           "children": [],
           "repo_info": {
@@ -1190,22 +1190,22 @@
         },
         {
           "node_type": "item",
-          "title": "80",
+          "title": "transformers",
           "description": "QDQBERT 2020",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-25T03:35:17Z",
+            "last_commit": "2026-08-25T05:59:39Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164411
+            "stars": 164413
           }
         },
         {
           "node_type": "item",
-          "title": "83",
+          "title": "fairseq",
           "description": "Speech2Text 2020",
           "children": [],
           "repo_info": {
@@ -1250,7 +1250,7 @@
         },
         {
           "node_type": "item",
-          "title": "85",
+          "title": "tapas",
           "description": "TAPAS 2020",
           "children": [],
           "repo_info": {
@@ -1265,7 +1265,7 @@
         },
         {
           "node_type": "item",
-          "title": "86",
+          "title": "wav2vec2_transformers",
           "description": "Wav2Vec2 2020",
           "children": [],
           "repo_info": {
@@ -1280,7 +1280,7 @@
         },
         {
           "node_type": "item",
-          "title": "88",
+          "title": "cc_net",
           "description": "XLM-RoBERTa 2020",
           "children": [],
           "repo_info": {
@@ -1295,7 +1295,7 @@
         },
         {
           "node_type": "item",
-          "title": "89",
+          "title": "multidiagnosis-speech",
           "description": "XLSR-Wav2Vec2 2020",
           "children": [],
           "repo_info": {
@@ -1310,7 +1310,7 @@
         },
         {
           "node_type": "item",
-          "title": "90",
+          "title": "mesh",
           "description": "Switch Transformer 2021",
           "children": [],
           "repo_info": {
@@ -1325,7 +1325,7 @@
         },
         {
           "node_type": "item",
-          "title": "91",
+          "title": "Efficient-AI-Backbones",
           "description": "TNT 2021",
           "children": [],
           "repo_info": {
@@ -1340,7 +1340,7 @@
         },
         {
           "node_type": "item",
-          "title": "92",
+          "title": "adaptive-span",
           "description": "Adaptive Span Transformer 2021",
           "children": [],
           "repo_info": {
@@ -1365,7 +1365,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
@@ -1415,7 +1415,7 @@
         },
         {
           "node_type": "item",
-          "title": "95",
+          "title": "tapas",
           "description": "MATE 2021",
           "children": [],
           "repo_info": {
@@ -1460,7 +1460,7 @@
         },
         {
           "node_type": "item",
-          "title": "97",
+          "title": "subformer",
           "description": "Subformer 2021",
           "children": [],
           "repo_info": {
@@ -1475,7 +1475,7 @@
         },
         {
           "node_type": "item",
-          "title": "98",
+          "title": "esacl",
           "description": "ESACL 2021",
           "children": [],
           "repo_info": {
@@ -1490,7 +1490,7 @@
         },
         {
           "node_type": "item",
-          "title": "99",
+          "title": "PermuteFormer",
           "description": "PermuteFormer 2021",
           "children": [],
           "repo_info": {
@@ -1505,7 +1505,7 @@
         },
         {
           "node_type": "item",
-          "title": "100",
+          "title": "fairseq",
           "description": "NormFormer 2021",
           "children": [],
           "repo_info": {
@@ -1520,7 +1520,7 @@
         },
         {
           "node_type": "item",
-          "title": "101",
+          "title": "fastformers",
           "description": "Fastformer 2021",
           "children": [],
           "repo_info": {
@@ -1565,7 +1565,7 @@
         },
         {
           "node_type": "item",
-          "title": "103",
+          "title": "egt",
           "description": "EGT 2021",
           "children": [],
           "repo_info": {
@@ -1610,7 +1610,7 @@
         },
         {
           "node_type": "item",
-          "title": "105",
+          "title": "gansformer",
           "description": "GANFormer 2021",
           "children": [],
           "repo_info": {
@@ -1625,7 +1625,7 @@
         },
         {
           "node_type": "item",
-          "title": "106",
+          "title": "ClipBERT",
           "description": "ClipBERT 2021",
           "children": [],
           "repo_info": {
@@ -1640,7 +1640,7 @@
         },
         {
           "node_type": "item",
-          "title": "107",
+          "title": "CodeT5",
           "description": "CodeT5 2021",
           "children": [],
           "repo_info": {
@@ -1655,7 +1655,7 @@
         },
         {
           "node_type": "item",
-          "title": "109",
+          "title": "byt5",
           "description": "ByT5 2021",
           "children": [],
           "repo_info": {
@@ -1700,7 +1700,7 @@
         },
         {
           "node_type": "item",
-          "title": "111",
+          "title": "FNet-pytorch",
           "description": "FNet 2021",
           "children": [],
           "repo_info": {
@@ -1715,7 +1715,7 @@
         },
         {
           "node_type": "item",
-          "title": "112",
+          "title": "unilm",
           "description": "LayoutLMV2 2021",
           "children": [],
           "repo_info": {
@@ -1760,7 +1760,7 @@
         },
         {
           "node_type": "item",
-          "title": "114",
+          "title": "mesh-transformer-jax",
           "description": "GPT-J 2021",
           "children": [],
           "repo_info": {
@@ -1775,7 +1775,7 @@
         },
         {
           "node_type": "item",
-          "title": "115",
+          "title": "malaya-speech",
           "description": "Hubert 2021",
           "children": [],
           "repo_info": {
@@ -1790,7 +1790,7 @@
         },
         {
           "node_type": "item",
-          "title": "116",
+          "title": "deepmind-research",
           "description": "Perceiver 2021",
           "children": [],
           "repo_info": {
@@ -1835,7 +1835,7 @@
         },
         {
           "node_type": "item",
-          "title": "118",
+          "title": "SegFormer",
           "description": "SegFormer 2021",
           "children": [],
           "repo_info": {
@@ -1850,7 +1850,7 @@
         },
         {
           "node_type": "item",
-          "title": "119",
+          "title": "sew",
           "description": "SEW 2021",
           "children": [],
           "repo_info": {
@@ -1865,7 +1865,7 @@
         },
         {
           "node_type": "item",
-          "title": "120",
+          "title": "sew",
           "description": "SEW-D 2021",
           "children": [],
           "repo_info": {
@@ -1880,7 +1880,7 @@
         },
         {
           "node_type": "item",
-          "title": "122",
+          "title": "splinter",
           "description": "Splinter 2021",
           "children": [],
           "repo_info": {
@@ -1895,7 +1895,7 @@
         },
         {
           "node_type": "item",
-          "title": "123",
+          "title": "unilm",
           "description": "TrOCR 2021",
           "children": [],
           "repo_info": {
@@ -1910,7 +1910,7 @@
         },
         {
           "node_type": "item",
-          "title": "124",
+          "title": "UniSpeech",
           "description": "UniSpeech 2021",
           "children": [],
           "repo_info": {
@@ -1925,7 +1925,7 @@
         },
         {
           "node_type": "item",
-          "title": "125",
+          "title": "UniSpeech",
           "description": "UniSpeech-SAT 2021",
           "children": [],
           "repo_info": {
@@ -1943,7 +1943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:23:06.271Z",
+    "last_updated": "2026-08-25T06:06:51.369Z",
     "original_repository": "ashishpatel26/Treasure-of-Transformers",
     "original_repository_id": 437856913,
     "original_repository_sha": "7172afd161c9f58b04aca7640c6522a9cf11cf2c",

@@ -45,7 +45,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40046
+            "stars": 40045
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-27T11:56:36Z",
+            "last_commit": "2026-08-27T14:31:30Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164499
+            "stars": 164503
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -870,7 +870,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -987,10 +987,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-27T11:56:36Z",
+            "last_commit": "2026-08-27T14:31:30Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164499
+            "stars": 164503
           }
         },
         {
@@ -1152,10 +1152,10 @@
             "archived": false,
             "id": 176982014,
             "language": "Python",
-            "last_commit": "2026-08-27T12:06:12Z",
+            "last_commit": "2026-08-27T14:41:01Z",
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 17625
+            "stars": 17626
           }
         },
         {
@@ -1197,10 +1197,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-27T11:56:36Z",
+            "last_commit": "2026-08-27T14:31:30Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164499
+            "stars": 164503
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-27T09:11:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38630
+            "stars": 38631
           }
         },
         {
@@ -1815,7 +1815,7 @@
             "last_commit": "2022-03-21T08:32:22Z",
             "owner": "ZhuiyiTechnology",
             "repo": "roformer",
-            "stars": 1146
+            "stars": 1147
           }
         },
         {
@@ -1845,7 +1845,7 @@
             "last_commit": "2024-08-02T15:50:33Z",
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3630
+            "stars": 3631
           }
         },
         {
@@ -1943,7 +1943,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:11:30.679Z",
+    "last_updated": "2026-08-27T14:46:26.692Z",
     "original_repository_info": {
       "archived": false,
       "id": 437856913,

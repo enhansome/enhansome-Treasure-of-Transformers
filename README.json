@@ -67,7 +67,7 @@
             "open_issues": 880,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40045,
+            "stars": 40044,
             "topics": [
               "google",
               "natural-language-processing",
@@ -90,11 +90,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T01:45:27Z",
-            "open_issues": 2383,
+            "last_commit": "2026-09-27T08:16:10Z",
+            "open_issues": 2384,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166662,
+            "stars": 166710,
             "topics": [
               "audio",
               "deep-learning",
@@ -135,7 +135,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17476,
+            "stars": 17475,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -162,7 +162,7 @@
             "open_issues": 589,
             "owner": "tensorflow",
             "repo": "tensor2tensor",
-            "stars": 17476,
+            "stars": 17475,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -212,7 +212,7 @@
             "open_issues": 108,
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6552,
+            "stars": 6551,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -300,7 +300,7 @@
             "open_issues": 98,
             "owner": "kimiyoung",
             "repo": "transformer-xl",
-            "stars": 3715,
+            "stars": 3716,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -430,7 +430,7 @@
             "open_issues": 26,
             "owner": "salesforce",
             "repo": "ctrl",
-            "stars": 1876,
+            "stars": 1877,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -629,7 +629,7 @@
             "id": 306980630,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T20:21:24Z",
+            "last_commit": "2026-09-26T16:57:41Z",
             "open_issues": 74,
             "owner": "lucidrains",
             "repo": "x-transformers",
@@ -943,7 +943,7 @@
             "open_issues": 80,
             "owner": "microsoft",
             "repo": "DeBERTa",
-            "stars": 2248,
+            "stars": 2249,
             "topics": [
               "bert",
               "deeplearning",
@@ -1069,7 +1069,7 @@
             "open_issues": 325,
             "owner": "PaddlePaddle",
             "repo": "PaddleNLP",
-            "stars": 12977,
+            "stars": 12979,
             "topics": [
               "bert",
               "compression",
@@ -1590,11 +1590,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T01:45:27Z",
-            "open_issues": 2383,
+            "last_commit": "2026-09-27T08:16:10Z",
+            "open_issues": 2384,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166662,
+            "stars": 166710,
             "topics": [
               "audio",
               "deep-learning",
@@ -1750,7 +1750,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22228,
+            "stars": 22227,
             "topics": [
               "beit",
               "beit-3",
@@ -1880,11 +1880,11 @@
             "id": 176982014,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T08:48:35Z",
-            "open_issues": 1413,
+            "last_commit": "2026-09-27T09:12:08Z",
+            "open_issues": 1414,
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 18010,
+            "stars": 18016,
             "topics": [
               "large-language-models",
               "model-para",
@@ -1947,11 +1947,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T01:45:27Z",
-            "open_issues": 2383,
+            "last_commit": "2026-09-27T08:16:10Z",
+            "open_issues": 2384,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166662,
+            "stars": 166710,
             "topics": [
               "audio",
               "deep-learning",
@@ -2017,7 +2017,7 @@
             "open_issues": 108,
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6552,
+            "stars": 6551,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -2034,7 +2034,7 @@
             "id": 306980630,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T20:21:24Z",
+            "last_commit": "2026-09-26T16:57:41Z",
             "open_issues": 74,
             "owner": "lucidrains",
             "repo": "x-transformers",
@@ -2248,7 +2248,7 @@
             "id": 306980630,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-23T20:21:24Z",
+            "last_commit": "2026-09-26T16:57:41Z",
             "open_issues": 74,
             "owner": "lucidrains",
             "repo": "x-transformers",
@@ -2755,7 +2755,7 @@
             "open_issues": 122,
             "owner": "google-research",
             "repo": "language",
-            "stars": 1807,
+            "stars": 1808,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -2839,7 +2839,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22228,
+            "stars": 22227,
             "topics": [
               "beit",
               "beit-3",
@@ -2881,7 +2881,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22228,
+            "stars": 22227,
             "topics": [
               "beit",
               "beit-3",
@@ -2944,7 +2944,7 @@
             "open_issues": 50,
             "owner": "kingoflolz",
             "repo": "mesh-transformer-jax",
-            "stars": 6383,
+            "stars": 6384,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -3054,7 +3054,7 @@
             "open_issues": 110,
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3665,
+            "stars": 3666,
             "topics": [
               "ade20k",
               "cityscapes",
@@ -3143,7 +3143,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22228,
+            "stars": 22227,
             "topics": [
               "beit",
               "beit-3",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:49:54.665Z",
+    "last_updated": "2026-09-27T09:31:52.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️",

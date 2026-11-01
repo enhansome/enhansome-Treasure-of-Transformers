@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "EleutherAI",
             "repo": "gpt-neo",
-            "stars": 8250,
+            "stars": 8251,
             "topics": [
               "gpt",
               "gpt-2",
@@ -46,7 +46,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77642,
+            "stars": 77638,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -90,11 +90,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T09:37:09Z",
-            "open_issues": 1030,
+            "last_commit": "2026-11-01T10:21:20Z",
+            "open_issues": 1043,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168383,
+            "stars": 168404,
             "topics": [
               "audio",
               "deep-learning",
@@ -189,7 +189,7 @@
             "open_issues": 197,
             "owner": "openai",
             "repo": "gpt-2",
-            "stars": 25008,
+            "stars": 25010,
             "topics": [
               "paper"
             ]
@@ -212,7 +212,7 @@
             "open_issues": 110,
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6565,
+            "stars": 6567,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -254,7 +254,7 @@
             "open_issues": 190,
             "owner": "zihangdai",
             "repo": "xlnet",
-            "stars": 6193,
+            "stars": 6194,
             "topics": [
               "deep-learning",
               "nlp",
@@ -279,7 +279,7 @@
             "open_issues": 102,
             "owner": "google-research",
             "repo": "albert",
-            "stars": 3275,
+            "stars": 3276,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -498,7 +498,7 @@
             "open_issues": 2,
             "owner": "google-deepmind",
             "repo": "pg19",
-            "stars": 266,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -545,7 +545,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -633,7 +633,7 @@
             "open_issues": 112,
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5961,
+            "stars": 5962,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "openai",
             "repo": "gpt-3",
-            "stars": 15690,
+            "stars": 15692,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -843,7 +843,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -868,7 +868,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -1158,7 +1158,7 @@
             "open_issues": 109,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3168,
+            "stars": 3169,
             "topics": [
               "knowledge-distillation",
               "large-scale-distributed",
@@ -1185,7 +1185,7 @@
             "open_issues": 109,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3168,
+            "stars": 3169,
             "topics": [
               "knowledge-distillation",
               "large-scale-distributed",
@@ -1212,7 +1212,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -1342,7 +1342,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -1396,7 +1396,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -1542,7 +1542,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -1567,7 +1567,7 @@
             "open_issues": 109,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3168,
+            "stars": 3169,
             "topics": [
               "knowledge-distillation",
               "large-scale-distributed",
@@ -1590,11 +1590,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T09:37:09Z",
-            "open_issues": 1030,
+            "last_commit": "2026-11-01T10:21:20Z",
+            "open_issues": 1043,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168383,
+            "stars": 168404,
             "topics": [
               "audio",
               "deep-learning",
@@ -1750,7 +1750,7 @@
             "open_issues": 690,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22236,
+            "stars": 22237,
             "topics": [
               "beit",
               "beit-3",
@@ -1880,11 +1880,11 @@
             "id": 176982014,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T08:09:46Z",
-            "open_issues": 1928,
+            "last_commit": "2026-11-01T07:51:21Z",
+            "open_issues": 1916,
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 18303,
+            "stars": 18310,
             "topics": [
               "large-language-models",
               "model-para",
@@ -1947,11 +1947,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T09:37:09Z",
-            "open_issues": 1030,
+            "last_commit": "2026-11-01T10:21:20Z",
+            "open_issues": 1043,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168383,
+            "stars": 168404,
             "topics": [
               "audio",
               "deep-learning",
@@ -2017,7 +2017,7 @@
             "open_issues": 110,
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6565,
+            "stars": 6567,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -2038,7 +2038,7 @@
             "open_issues": 112,
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5961,
+            "stars": 5962,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -2174,7 +2174,7 @@
             "open_issues": 95,
             "owner": "huawei-noah",
             "repo": "Efficient-AI-Backbones",
-            "stars": 4426,
+            "stars": 4425,
             "topics": [
               "convolutional-neural-networks",
               "efficient-inference",
@@ -2227,7 +2227,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -2252,7 +2252,7 @@
             "open_issues": 112,
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5961,
+            "stars": 5962,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -2278,7 +2278,7 @@
             "open_issues": 2009,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39067,
+            "stars": 39080,
             "topics": [
               "ai",
               "machine-learning",
@@ -2512,7 +2512,7 @@
             "open_issues": 109,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3168,
+            "stars": 3169,
             "topics": [
               "knowledge-distillation",
               "large-scale-distributed",
@@ -2539,7 +2539,7 @@
             "open_issues": 109,
             "owner": "huawei-noah",
             "repo": "Pretrained-Language-Model",
-            "stars": 3168,
+            "stars": 3169,
             "topics": [
               "knowledge-distillation",
               "large-scale-distributed",
@@ -2752,7 +2752,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-06-10T18:34:36Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "google-research",
             "repo": "language",
             "stars": 1822,
@@ -2780,7 +2780,7 @@
             "open_issues": 314,
             "owner": "NielsRogge",
             "repo": "Transformers-Tutorials",
-            "stars": 11777,
+            "stars": 11778,
             "topics": [
               "bert",
               "gpt-2",
@@ -2839,7 +2839,7 @@
             "open_issues": 690,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22236,
+            "stars": 22237,
             "topics": [
               "beit",
               "beit-3",
@@ -2881,7 +2881,7 @@
             "open_issues": 690,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22236,
+            "stars": 22237,
             "topics": [
               "beit",
               "beit-3",
@@ -2986,7 +2986,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15260,
+            "stars": 15262,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -3054,7 +3054,7 @@
             "open_issues": 110,
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3703,
+            "stars": 3704,
             "topics": [
               "ade20k",
               "cityscapes",
@@ -3143,7 +3143,7 @@
             "open_issues": 690,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22236,
+            "stars": 22237,
             "topics": [
               "beit",
               "beit-3",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T09:57:59.692Z",
+    "last_updated": "2026-11-01T10:48:20.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️",

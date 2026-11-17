@@ -42,11 +42,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T23:22:42Z",
+            "last_commit": "2026-11-16T22:46:00Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77629,
+            "stars": 77627,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -67,7 +67,7 @@
             "open_issues": 879,
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40026,
+            "stars": 40024,
             "topics": [
               "google",
               "natural-language-processing",
@@ -90,11 +90,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:02:14Z",
-            "open_issues": 1135,
+            "last_commit": "2026-11-17T12:26:03Z",
+            "open_issues": 1120,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169064,
+            "stars": 169141,
             "topics": [
               "audio",
               "deep-learning",
@@ -189,7 +189,7 @@
             "open_issues": 197,
             "owner": "openai",
             "repo": "gpt-2",
-            "stars": 25015,
+            "stars": 25014,
             "topics": [
               "paper"
             ]
@@ -212,7 +212,7 @@
             "open_issues": 110,
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6565,
+            "stars": 6566,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -254,7 +254,7 @@
             "open_issues": 190,
             "owner": "zihangdai",
             "repo": "xlnet",
-            "stars": 6194,
+            "stars": 6195,
             "topics": [
               "deep-learning",
               "nlp",
@@ -405,7 +405,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -541,11 +541,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -633,7 +633,7 @@
             "open_issues": 133,
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5961,
+            "stars": 5962,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -659,7 +659,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -684,7 +684,7 @@
             "open_issues": 55,
             "owner": "airsplay",
             "repo": "lxmert",
-            "stars": 970,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -705,7 +705,7 @@
             "open_issues": 14,
             "owner": "uclanlp",
             "repo": "visualbert",
-            "stars": 542,
+            "stars": 543,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -726,7 +726,7 @@
             "open_issues": 3,
             "owner": "openai",
             "repo": "gpt-3",
-            "stars": 15687,
+            "stars": 15686,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -818,7 +818,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -839,11 +839,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -864,11 +864,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -943,7 +943,7 @@
             "open_issues": 79,
             "owner": "microsoft",
             "repo": "DeBERTa",
-            "stars": 2266,
+            "stars": 2265,
             "topics": [
               "bert",
               "deeplearning",
@@ -1066,10 +1066,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-23T02:54:28Z",
-            "open_issues": 310,
+            "open_issues": 304,
             "owner": "PaddlePaddle",
             "repo": "PaddleNLP",
-            "stars": 12994,
+            "stars": 12995,
             "topics": [
               "bert",
               "compression",
@@ -1208,11 +1208,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -1338,11 +1338,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -1392,11 +1392,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -1538,11 +1538,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -1590,11 +1590,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:02:14Z",
-            "open_issues": 1135,
+            "last_commit": "2026-11-17T12:26:03Z",
+            "open_issues": 1120,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169064,
+            "stars": 169141,
             "topics": [
               "audio",
               "deep-learning",
@@ -1834,7 +1834,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1859,7 +1859,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -1880,11 +1880,11 @@
             "id": 176982014,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T11:42:08Z",
-            "open_issues": 2078,
+            "last_commit": "2026-11-17T12:27:03Z",
+            "open_issues": 2102,
             "owner": "NVIDIA",
             "repo": "Megatron-LM",
-            "stars": 18413,
+            "stars": 18426,
             "topics": [
               "large-language-models",
               "model-para",
@@ -1947,11 +1947,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T12:02:14Z",
-            "open_issues": 1135,
+            "last_commit": "2026-11-17T12:26:03Z",
+            "open_issues": 1120,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 169064,
+            "stars": 169141,
             "topics": [
               "audio",
               "deep-learning",
@@ -1992,7 +1992,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2017,7 +2017,7 @@
             "open_issues": 110,
             "owner": "google-research",
             "repo": "text-to-text-transfer-transformer",
-            "stars": 6565,
+            "stars": 6566,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -2038,7 +2038,7 @@
             "open_issues": 133,
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5961,
+            "stars": 5962,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -2206,7 +2206,7 @@
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "adaptive-span",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -2223,11 +2223,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -2252,7 +2252,7 @@
             "open_issues": 133,
             "owner": "lucidrains",
             "repo": "x-transformers",
-            "stars": 5961,
+            "stars": 5962,
             "topics": [
               "artificial-intelligence",
               "attention-mechanism",
@@ -2274,11 +2274,11 @@
             "id": 151619717,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T12:36:20Z",
+            "last_commit": "2026-11-16T16:31:35Z",
             "open_issues": 2013,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 39188,
+            "stars": 39200,
             "topics": [
               "ai",
               "machine-learning",
@@ -2373,7 +2373,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-03-24T12:25:22Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "lucidrains",
             "repo": "nystrom-attention",
             "stars": 145,
@@ -2466,7 +2466,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32205,
+            "stars": 32203,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -2679,7 +2679,7 @@
             "open_issues": 14,
             "owner": "jayleicn",
             "repo": "ClipBERT",
-            "stars": 731,
+            "stars": 732,
             "topics": [
               "cvpr2021",
               "pytorch",
@@ -2780,7 +2780,7 @@
             "open_issues": 314,
             "owner": "NielsRogge",
             "repo": "Transformers-Tutorials",
-            "stars": 11785,
+            "stars": 11786,
             "topics": [
               "bert",
               "gpt-2",
@@ -2986,7 +2986,7 @@
             "open_issues": 360,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15277,
+            "stars": 15280,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -3007,7 +3007,7 @@
             "open_issues": 7,
             "owner": "ZhuiyiTechnology",
             "repo": "roformer",
-            "stars": 1167,
+            "stars": 1169,
             "topics": []
           },
           "first_seen": "2026-08-28T15:40:45.829Z"
@@ -3054,7 +3054,7 @@
             "open_issues": 110,
             "owner": "NVlabs",
             "repo": "SegFormer",
-            "stars": 3717,
+            "stars": 3718,
             "topics": [
               "ade20k",
               "cityscapes",
@@ -3234,7 +3234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T12:03:29.873Z",
+    "last_updated": "2026-11-17T12:28:54.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "💁 Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks. 🛫☑️",
@@ -3246,7 +3246,7 @@
       "open_issues": 3,
       "owner": "ashishpatel26",
       "repo": "Treasure-of-Transformers",
-      "stars": 1186,
+      "stars": 1185,
       "topics": [
         "awesome",
         "bert",
